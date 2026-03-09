@@ -65,8 +65,8 @@ git --version
 # Clone the Repository
 
 ```
-git clone [(https://github.com/1css/eCommerce-website.git)](https://github.com/1css/eCommerce-website.git)
-cd ecommerce-fullstack
+git clone https://github.com/1css/eCommerce-website.git
+cd eCommerce-website
 ```
 
 ---
