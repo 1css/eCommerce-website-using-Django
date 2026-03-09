@@ -162,7 +162,6 @@ VITE_API_URL=http://127.0.0.1:8000
 * User registration and login
 * Product listing
 * Product details page
-* Add to cart
 * Order placement
 * REST API integration
 * Responsive user interface
